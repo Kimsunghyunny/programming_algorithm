@@ -1,16 +1,13 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
+
+//여러가지 잡다한 알고리즘이나 기능 테스트 해보는 파일
 int main() {
     
-    cout << "hello! c++" << endl;
+    string number = "123";
 
-    int tmp = 0;
-
-    for (int i =0; i <5; i++) {
-        cout << tmp <<endl;
-        tmp++;
-    }
 
     return 0;
 }
