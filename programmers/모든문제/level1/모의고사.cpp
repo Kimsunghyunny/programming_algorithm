@@ -1,3 +1,5 @@
+//완전 탐색
+
 #include <string>
 #include <iostream>
 #include <vector>
