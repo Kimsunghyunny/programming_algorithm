@@ -26,6 +26,9 @@ vector<int> solution(vector<string> genres, vector<int> plays)
     }
 
     //수록 순서에 따라 answer에 들어가도록 한다. sort로 해시 테이블 정렬한다.
+    // TODO: audo&에 대해서 정확히 알아보기
+    // FIXME: auto & a : playlist의 의미는, playlist를 a라는 변수에 참조한다는 의미. 즉, playlist가 변해도 a에 반영되고, a가 변해도 playlist도 반영된다는 의미이다. (call-by-reference)
+    //          그렇기 떄문에 만일 auto a : playlist로 선언되었을 때는 a는 이 for 문 안에서만 정렬되고 실제 playlist에는 정렬이 반영되지 않고 끝나게 된다. (call-by-value)
     for (auto &a : playlist)
     { //장르에 따른 고유번호,재생횟수 해시테이블 정렬
         sort(a.second.begin(), a.second.end(), compare);
