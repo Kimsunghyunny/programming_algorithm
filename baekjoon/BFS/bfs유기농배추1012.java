@@ -20,6 +20,8 @@ public class main {
 		int m, n, k;
 		int[][] loca;
 		int[][] visit;
+		int[] xMove = {0, 1, 0, -1};
+		int[] yMove = {1, 0, -1, 0};
 		for (int i = 0; i < caseNum; i++) { // 배추 위치 저장
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			m = Integer.parseInt(st.nextToken()); // 가로
@@ -36,11 +38,25 @@ public class main {
 			}
 
 			// BFS나 DFS로 배추 묶여 있는것 찾기
-
-			for (int a = 0; a < m; a++) {
-				for (int b = 0; b < n; b++) {
-					Queue<Location> q = new LinkedList<>();
-					q.offer(new Location(a, b));
+			
+			Queue<Location> q = new LinkedList<>();
+			q.offer(new Location(0,0));
+			visit[0][0] = 1;
+			
+			while(!q.isEmpty()) {
+				Location tmp = q.poll();
+				int x = tmp.x;
+				int y = tmp.y;
+				
+				for(int l = 0; l<4; l++) {
+					int tmpX = x + xMove[l];
+					int tmpY = y + yMove[l];
+					
+					if(visit[tmpY][tmpX] == 0 && tmpX >=0 && tmpX <=n && tmpY >=0 && tmpY <=m) {
+						q.offer(new Location(tmpY,tmpX));
+						visit[tmpY][tmpX] = 1;
+						
+					}
 				}
 			}
 
