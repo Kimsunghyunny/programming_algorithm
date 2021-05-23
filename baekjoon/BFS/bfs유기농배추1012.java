@@ -54,8 +54,7 @@ public class main {
 					
 					if(visit[tmpY][tmpX] == 0 && tmpX >=0 && tmpX <=n && tmpY >=0 && tmpY <=m) {
 						q.offer(new Location(tmpY,tmpX));
-						visit[tmpY][tmpX] = 1;
-						
+						visit[tmpY][tmpX] = 1;	
 					}
 				}
 			}
