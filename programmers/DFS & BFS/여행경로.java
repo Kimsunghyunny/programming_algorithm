@@ -1,69 +1,41 @@
-package Main;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.ArrayList;
+import java.util.Collections;
 
 class Solution {
-	class Node {
-		String next;
-		int edge;
+    int[] visited;
+    String str = "";
+    ArrayList<String> list = new ArrayList<String>();
+    public void dfs(String current,int count,String[][] tickets ){
+        str+= current+",";
+        if(count == tickets.length){
+           list.add(str);
+            return ;
+        }
 
-		public Node(String next, int edge) {
-			this.next = next;
-			this.edge = edge;
-		}
-	}
-
-	public int solution(String begin, String target, String[] words) {
-		int answer = 0;
-
-		if (check2(target, words) != -1) {
-			answer = bfs(begin, target, words);
-		}
-		return answer;
-	}
-	
-	public int bfs(String begin, String target, String[] words) {
-		int answer = 0;
-		Queue<Node> q = new LinkedList<>();
-
-		boolean[] isAdd = new boolean[words.length];
-		q.add(new Node(begin, 0));
-
-		while (!q.isEmpty()) {
-			Node n = q.poll();
-
-			if (n.next.equals(target)) {
-				answer = n.edge;
-				break;
-			}
-
-			for (int i = 0; i < words.length; i++) {
-				if (!isAdd[i] && check(n.next, words[i])) {
-					isAdd[i] = true;
-					q.add(new Node(words[i], n.edge + 1));
-				}
-			}
-		}
-		return answer;
-	}
-
-	public boolean check(String checkWord, String word) {
-		int diff = 0;
-		for (int i = 0; i < checkWord.length(); i++) {
-			if (checkWord.charAt(i) != word.charAt(i))
-				diff++;
-		}
-		if (diff == 1)
-			return true;
-		else
-			return false;
-	}
-
-	public int check2(String begin, String[] words) {
-		for (int i = 0; i < words.length; i++) {
-			if (begin.equals(words[i]))
-				return 1;
-		}
-		return -1;
-	}
+        for(int i=0;i<tickets.length;i++){
+            if(visited[i]!=1&&tickets[i][0].equals(current)){
+                visited[i]=1; 
+                dfs(tickets[i][1],count+1,tickets);
+                visited[i]=0;
+                str="";
+            }
+        }
+    }
+    public String[] solution(String[][] tickets) {
+        
+        int size=tickets.length;
+        visited=new int[size];
+        
+        for(int i=0;i<size;i++){
+            if(tickets[i][0].equals("ICN")){
+                visited[i]=1;
+                str="ICN,";
+                dfs(tickets[i][1],1,tickets);
+                visited[i]=0;
+            }
+        }
+        Collections.sort(list);
+		String[] answer = list.get(0).split(",");
+        return answer;
+    }
 }
