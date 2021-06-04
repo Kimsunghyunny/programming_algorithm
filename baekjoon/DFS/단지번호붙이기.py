@@ -30,7 +30,7 @@ def dfs():
 
 for i in range(n):
     for j in range(n):
-        if apt[i][j] == 1:
+        if apt[i][j] == '1':
             stack.append((i,j))
             while len(stack) >0 :
                 dfs()
