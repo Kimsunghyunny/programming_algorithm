@@ -21,6 +21,8 @@ def dfs(x,y):
             dfs(nx, ny)
 
 if __name__ == "__main__":
+    # 위와 같으 __main__이라는것은 모듈을 import 했을때, 해당 파일이 main으로 시작점으로 시작할때 아래의 코드를 실행하라는 의미이다.
+    
     sys.setrecursionlimit(10 ** 5) # python은 재귀 깊이가 1000으로 굉장이 얕다. 그렇기에 다음과 같이 설정해줘야 오류를 막을 수 있다.
     input = sys.stdin.readline # input에 대한 정의를 sys.stdin.realine으로 바꿔줌
     T = int(input())
