@@ -106,7 +106,28 @@ mydict["c"] = 1 ß
 
 """
 
-
+1)
 if __name__ == "__main__":
 이와 같은 것은 여러 클래스 파일을 포함하고 있는경우에, 해당 코드가 적혀 있는 파일이 main으로 실행되었을 때 
 아래의 코드가 실행된다는 의미를 담고 있다.
+
+
+2)
+for i in range(n) 일때,
+i값은 0부터 n-1 까지 출력한다.
+
+
+
+3) for 과 if문을 한번에 작성하는 방법
+https://leedakyeong.tistory.com/entry/python-for문-if문-한-줄로-코딩하기
+
+
+
+4) 입력을 받은 값을 넣어서 for문을 돌리는 방법
+for idx,p in enumerate(map(int,input().split())):
+    	if p==-1: continue
+	nodes[p].append(idx)
+해당 코드는 idx는 0부터 enumerate 에 있는 값의 개수까지 증가하는 값이고
+enumerate 는 [], {}, () 에 대해서 값들을 차례로 p에 넣으며 바뀌게 해주는 것이다.
+range 와 비슷하지만 enuerate 는 리스트가 있는 경우 순서와 리스트의 값을 전달하는 기능을 가진다.
+즉, 순서가 있는 자료형(list, set, tuple, dictionary, string)을 입력으로 받아 인덱스 값을 포함하는 enumerate 객체를 리턴합니다.
