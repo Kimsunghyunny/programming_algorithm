@@ -32,6 +32,7 @@ for i in range(n-1):
 
 q = [1] # 큐에 1값을 넣어둔다.
 ans = {} # dict으로 선언해서 사용. []로 선언해 배열을 이용하면 ans[i]에 값을 넣으려 할때 outboud of index 에러가 발생한다.
+#만약 배열로 사용하고 싶다면 배열로 ans = [0] * (n+1) 로 초기화를 선언해줘야한다.
 check = [False for _ in range(n+1)] # 방문여부를 확인하는 배열을 선언
 
 while len(q)>0 :
@@ -44,5 +45,5 @@ while len(q)>0 :
 
 
 for i in range(2, n+1):
-    sys.stdout.write(str(ans[i]))
+    print(ans[i])
     # dict에서 value값 출력
