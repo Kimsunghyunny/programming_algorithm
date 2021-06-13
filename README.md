@@ -19,3 +19,8 @@
 
 ## python  관련
 https://dojang.io/course/view.php?id=7 참고하기
+
+
+## 등등 자료들
+
+https://gmlwjd9405.github.io/tags#algorithm 참고하기
