@@ -1,17 +1,23 @@
 
 
-import sys
-
+import sys, heapq
 input = sys.stdin.readline
 
 N = int(input())
 
-cardLst = []
+heap = []
 
 for _ in range(N):
-    cardLst.append(int(input()))
+    heapq.heappush(heap, int(input()))
 
-cardLst.sort()
+ans = 0
 
-# 2개를 더할때, 그 상황에서 가장 작은 값이 나오도록 더해준다.
+if N != 1:
+    while len(heap) > 1 :
+        fst = heapq.heappop(heap)
+        snd = heapq.heappop(heap)
+        sumVal = fst + snd
+        ans += sumVal
+        heapq.heappush(heap, sumVal)
 
+print(ans)
