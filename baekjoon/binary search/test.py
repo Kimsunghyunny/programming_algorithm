@@ -1,3 +1,4 @@
+"""
 import sys
 si = sys.stdin.readline
 n = int(si())
@@ -29,3 +30,7 @@ for l in range(n - 1):
         v1, v2 = a[l], a[candidate]
 
 print(v1, v2)
+"""
+
+a = 1<<31
+print(a)
