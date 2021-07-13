@@ -28,7 +28,6 @@ def dfs(x, par):
 if root != erased:
     dfs(root, -1)
 print(leaf[root])
-print(leaf)
 
 
 """
