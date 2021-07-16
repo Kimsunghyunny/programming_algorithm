@@ -1,36 +1,38 @@
 import sys
 si = sys.stdin.readline
 
-
 ans = []
 while True:
     n, k = map(int, si().split())
     if n == 0 and k == 0:
         break
+    a = list(map(int, si().split()))
+    cnt, idx = -1, 0
+    p = [-1] * 20
 
-    g = list(map(int, si().split()))
-    level = [[] for _ in range(20)]
-    levelval = [-1] * 20 # 해당 레벨에 몇개의 원소가 존재하는지 count
-    # level 별로 넣어둘 수 있는 배열을 하나 만들고, k의 레벨을 구한뒤에 k 레벨 배열의 길이 - 1을 해준다.
-    ansLevel = 0
-    cnt = -1
-
-    
-    for i in range(1,n):
-        if g[i] == k:
-            ansLevel = cnt
-        if g[i] != g[i-1] + 1:
+    for i in range(n):
+        if a[i] == k:
+            idx = i
+        if a[i] != a[i-1] + 1:
             cnt += 1
-        levelval[i] = cnt
+        p[i] = cnt
 
-    print(levelval)
-    print(ansLevel)
-
+    print(idx)
+    print(p)
     ans = 0
-    for i in range(1, n+1):
-        if levelval[i] != levelval[ansLevel] and levelval[levelval[i]] == levelval[levelval[ansLevel]]:
+    for i in range(1,n):
+        if p[i] != p[idx] and p[p[i]] == p[p[idx]]: # par은 다르지만 par끼리는 형제인경우
             ans += 1
+
     print(ans)
     
-
         
+"""
+10 15
+1 3 4 5 8 9 15 30 31 32
+12 9
+3 5 6 8 9 10 13 15 16 22 23 25
+10 4
+1 3 4 5 8 9 15 30 31 32
+
+"""
