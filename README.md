@@ -1,18 +1,18 @@
 # <b> 코딩테스트 대비 알고리즘 공부 </b>
 대부분의 Python과 약간의 java 기반 알고리즘 공부
 
-1. [BruteForce(완전탐색)](##1-BruteForce-(완전탐색))
-2. [BinarySearch(이분탐색)](#2-BinarySearch-(이분탐색))
-3. [TwoPointer(투포인터)](#3-TwoPointer-(투포인터))
-4. [GraphSearch(그래프탐색)](#4-GraphSearch-(그래프탐색))
-5. [Tree(트리)](#5-Tree-(트리))
-6. [TopologicalSort(위상정렬)](#6-TopologicalSort-(위상정렬))
-7. [ShortestPath(최단거리)](#7-ShortestPath-(최단거리))
+1. [BruteForce(완전탐색)](#BruteForce(완전탐색))
+2. [BinarySearch(이분탐색)](#2-BinarySearch(이분탐색))
+3. [TwoPointer(투포인터)](#TwoPointer(투포인터))
+4. [GraphSearch(그래프탐색)](#GraphSearch(그래프탐색))
+5. [Tree(트리)](#Tree(트리))
+6. [TopologicalSort(위상정렬)](#TopologicalSort(위상정렬))
+7. [ShortestPath(최단거리)](#ShortestPath(최단거리))
 <br><br>
 
 # <b> 파트 별 문제 풀이 </b>
 
-## <b>1. BruteForce (완전탐색)</b>
+## <b>BruteForce (완전탐색)</b>
 <br>
 
 |<center>문제 이름|문제 링크|풀이|메모|
