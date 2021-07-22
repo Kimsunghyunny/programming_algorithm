@@ -5,3 +5,5 @@ control+command < or > 을 통해서 화면 분리 파일 옮기기 가능
 
 option+shift < or > 해당 커서 줄의 특정 단어 드래그 선택 
 command+shift < or > 해당 줄 모두 드래그 선택하기
+
+command+shift + p = 명령어 검색
