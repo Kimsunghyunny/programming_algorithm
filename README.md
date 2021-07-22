@@ -12,7 +12,7 @@
 
 # <b> 파트 별 문제 풀이 </b>
 
-## <b>BruteForce(완전탐색)</b>
+# BruteForce(완전탐색)
 <br>
 
 |<center>문제 이름|문제 링크|풀이|메모|
