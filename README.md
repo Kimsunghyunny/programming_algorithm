@@ -1,7 +1,7 @@
 # <b> 코딩테스트 대비 알고리즘 공부 </b>
 대부분의 Python과 약간의 java 기반 알고리즘 공부
 
-1. [BruteForce(완전탐색)](#BruteForce(완전탐색))
+1. [BruteForce(완전탐색)](#bruteforce(완전탐색))
 2. [BinarySearch(이분탐색)](#2-BinarySearch(이분탐색))
 3. [TwoPointer(투포인터)](#TwoPointer(투포인터))
 4. [GraphSearch(그래프탐색)](#GraphSearch(그래프탐색))
