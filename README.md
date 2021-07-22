@@ -1,18 +1,18 @@
 # <b> 코딩테스트 대비 알고리즘 공부 </b>
 대부분의 Python과 약간의 java 기반 알고리즘 공부
 
-1. [BruteForce(완전탐색)](#bruteforce(완전탐색))
-2. [BinarySearch(이분탐색)](#2-BinarySearch(이분탐색))
-3. [TwoPointer(투포인터)](#TwoPointer(투포인터))
-4. [GraphSearch(그래프탐색)](#GraphSearch(그래프탐색))
-5. [Tree(트리)](#Tree(트리))
-6. [TopologicalSort(위상정렬)](#TopologicalSort(위상정렬))
-7. [ShortestPath(최단거리)](#ShortestPath(최단거리))
+1. [BruteForce(완전탐색)](#1-bruteforce---완전탐색)
+2. [BinarySearch(이분탐색)](#2-binarysearch---이분탐색)
+3. [TwoPointer(투포인터)](#3-twopointer---투-포인터)
+4. [GraphSearch(그래프탐색)](#4-graphsearch---그래프탐색)
+5. [Tree(트리)](#5-tree---트리)
+6. [TopologicalSort(위상정렬)](#6-topologicalsort---위상정렬)
+7. [ShortestPath(최단거리)](#7-shortestpath---최단거리)
 <br><br>
 
 # <b> 파트 별 문제 풀이 </b>
 
-# BruteForce(완전탐색)
+## 1. BruteForce - 완전탐색
 <br>
 
 |<center>문제 이름|문제 링크|풀이|메모|
@@ -29,7 +29,7 @@
 |<center>N과 M (9)|[<center>링크](http://boj.kr/15663)|||
 <br><br>
 
-## <b>2. BinarySearch (이분탐색) </b>
+## 2. BinarySearch - 이분탐색
 <br>
 
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
@@ -53,7 +53,7 @@
 |<center>날카로운 눈|[<center>링크](http://boj.kr/1637)|||
 <br><br>
 
-## <b>3. TwoPointer (투 포인터) </b>
+## 3. TwoPointer - 투 포인터
 <br>
 
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
@@ -73,7 +73,7 @@
 |<center>세 용액|[<center>링크](http://boj.kr/2473)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/04_TwoPointer/2473세용액.py)|<center>아직 풀지 못함|
 <br><br>
 
-## <b>4. GraphSearch (그래프탐색) </b>
+## 4. GraphSearch - 그래프탐색
 <br>
 
 |<center>문제 이름|<center>문제 링크|<center>DFS풀이|<center>BFS풀이|<center>메모|
@@ -93,7 +93,7 @@
 
 <br><br>
 
-## <b>5. Tree (트리) </b>
+## 5. Tree - 트리
 <br>
 
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
@@ -114,7 +114,7 @@
 
 <br><br>
 
-## <b>6. TopologicalSort (위상정렬) </b>
+## 6. TopologicalSort - 위상정렬
 <br>
 
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
@@ -131,7 +131,7 @@
 
 <br><br>
 
-## <b>7. ShortestPath (최단거리) </b>
+## 7. ShortestPath - 최단거리
 <br>
 
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
