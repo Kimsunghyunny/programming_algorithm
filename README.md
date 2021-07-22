@@ -1,7 +1,7 @@
 # <b> 코딩테스트 대비 알고리즘 공부 </b>
 대부분의 Python과 약간의 java 기반 알고리즘 공부
 
-1. [BruteForce(완전탐색)](#1-BruteForce-(완전탐색))
+1. [BruteForce(완전탐색)](##1-BruteForce-(완전탐색))
 2. [BinarySearch(이분탐색)](#2-BinarySearch-(이분탐색))
 3. [TwoPointer(투포인터)](#3-TwoPointer-(투포인터))
 4. [GraphSearch(그래프탐색)](#4-GraphSearch-(그래프탐색))
@@ -119,15 +119,15 @@
 
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
 |---|---|---|---|
-|<center>줄 세우기|[<center>링크](http://boj.kr/2252)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2252줄세우기.py)|
-|<center>ACM Craft|<center>[링크](http://boj.kr/1005)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/1005ACMcraft.py)|
-|<center>**연습문제**|||
+|<center>줄 세우기|[<center>링크](http://boj.kr/2252)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2252줄세우기.py)||
+|<center>ACM Craft|<center>[링크](http://boj.kr/1005)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/1005ACMcraft.py)||
+|<center>**연습문제**||||
 |<center>음악 프로그램|<center>[링크](https://www.acmicpc.net/problem/2623)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2623음악프로그램.py)|
-|<center>Strahler 순서|<center>[링크](https://www.acmicpc.net/problem/9470)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/9470Strahler순서.py)|
-|<center>영우는 사기꾼?|<center>[링크](https://velog.io/@ansrjsdn/BOJ14676-영우는-사기꾼-Python)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/14676영우는사기꾼.py)|
-|<center>게임 개발|<center>[링크](http://boj.kr/1516)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/1516게임개빌.py)|
-|<center>작업|<center>[링크](http://boj.kr/2056)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2056작업.py)|<center>위상정렬과 dp 연습문제 풀이 - 시간 누적 합에 대한 알고리즘 기본 예시:star::star::star:|
-|<center>장난감조립|<center>[링크](http://boj.kr/2637)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2637장난감조립.py)|
+|<center>Strahler 순서|<center>[링크](https://www.acmicpc.net/problem/9470)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/9470Strahler순서.py)||
+|<center>영우는 사기꾼?|<center>[링크](https://velog.io/@ansrjsdn/BOJ14676-영우는-사기꾼-Python)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/14676영우는사기꾼.py)||
+|<center>게임 개발|<center>[링크](http://boj.kr/1516)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/1516게임개빌.py)||
+|<center>작업|<center>[링크](http://boj.kr/2056)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2056작업.py)|<center>위상정렬과 dp 연습문제 풀이 - 시간 누적 합에 대한 알고리즘 기본 예시:star:|
+|<center>장난감조립|<center>[링크](http://boj.kr/2637)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2637장난감조립.py)||
 
 <br><br>
 
