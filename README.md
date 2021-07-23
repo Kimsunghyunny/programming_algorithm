@@ -27,6 +27,7 @@
 |<center>부분수열의 합|[<center>링크](http://boj.kr/1182)|||
 |<center>암호 만들기|[<center>링크](http://boj.kr/1759)|||
 |<center>N과 M (9)|[<center>링크](http://boj.kr/15663)|||
+
 <br><br>
 
 ## 2. BinarySearch - 이분탐색
@@ -51,6 +52,7 @@
 |<center>어두운 굴다리|[<center>링크](http://boj.kr/17266)||
 |<center>K번째 수|[<center>링크](http://boj.kr/1300)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/03_BinarySearch/1300k번째수.py)||
 |<center>날카로운 눈|[<center>링크](http://boj.kr/1637)|||
+
 <br><br>
 
 ## 3. TwoPointer - 투 포인터
@@ -71,6 +73,7 @@
 |<center>수 고르기|[<center>링크](http://boj.kr/2230)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/04_TwoPointer/2230수고르기.py)||
 |<center>두 수의 합|[<center>링크](http://boj.kr/3273)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/04_TwoPointer/3273두수의합.py)||
 |<center>세 용액|[<center>링크](http://boj.kr/2473)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/04_TwoPointer/2473세용액.py)|<center>아직 풀지 못함|
+
 <br><br>
 
 ## 4. GraphSearch - 그래프탐색
@@ -137,8 +140,8 @@
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
 |---|---|---|---|
 |<center>최소비용 구하기|<center>[링크](http://boj.kr/1916)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1916최소비용구하기.py)|<center>기본예제|
-|<center>최단경로|<center>[링크](http://boj.kr/1753)|[링크]|<center>|
-|<center>알고스팟|<center>[링크](http://boj.kr/1261)|[링크]|<center>|
+|<center>최단경로|<center>[링크](http://boj.kr/1753)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1753%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|<center>python에서 구현시에 heapq를 사용할때 우선순위를 고려할 요소를 맨 앞의 요소로 두는 것 주의하기(java는 pq정의시 comparator이용)|
+|<center>알고스팟|<center>[링크](http://boj.kr/1261)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1261%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9FDijkstra.py)|<center>BFS로 구현하는 방법 [링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1261%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9FBFS.py)|
 |<center>파티|<center>[링크](http://boj.kr/1238)|[링크]|<center>|
 |<center>특정한 최단경로|<center>[링크](http://boj.kr/1504)|[링크]|<center>|
 |<center>숨바꼭질3|<center>[링크](http://boj.kr/13549)|[링크]|<center>|
