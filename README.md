@@ -142,9 +142,9 @@
 |<center>최소비용 구하기|<center>[링크](http://boj.kr/1916)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1916최소비용구하기.py)|<center>기본예제|
 |<center>최단경로|<center>[링크](http://boj.kr/1753)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1753%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|<center>python에서 구현시에 heapq를 사용할때 우선순위를 고려할 요소를 맨 앞의 요소로 두는 것 주의하기(java는 pq정의시 comparator이용)|
 |<center>알고스팟|<center>[링크](http://boj.kr/1261)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1261%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9FDijkstra.py)|<center>BFS로 구현하는 방법 [링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1261%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9FBFS.py)|
-|<center>파티|<center>[링크](http://boj.kr/1238)|[링크]|<center>|
-|<center>특정한 최단경로|<center>[링크](http://boj.kr/1504)|[링크]|<center>|
-|<center>숨바꼭질3|<center>[링크](http://boj.kr/13549)|[링크]|<center>|
+|<center>파티|<center>[링크](http://boj.kr/1238)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1238파티.py)|<center>최단거리를 여러번 구해야하는 경우|
+|<center>특정한 최단경로|<center>[링크](http://boj.kr/1504)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1504특정한최단경로.py)|<center>최단거리를 여러번 구해야하는 경우|
+|<center>숨바꼭질3|<center>[링크](http://boj.kr/13549)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/13549숨바꼭질3.py)|<center>|
 
 
 <br><br>
