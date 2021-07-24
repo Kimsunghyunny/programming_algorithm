@@ -61,7 +61,7 @@
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
 |---|---|---|---|
 |<center>부분합|[<center>링크](http://boj.kr/1806)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/04_TwoPointer/1806부분합.py)|
-|<center>두 용액|[<center>링크](http://boj.kr/2470)||<center>BS에서 풀이하고 투포인터로 아직 풀이 안함|
+|<center>두 용액|[<center>링크](http://boj.kr/2470)||<center>BS에서 풀이하고 투포인터로<br>아직 풀이 안함|
 |<center>List of Unique Numbers|[<center>링크](http://boj.kr/13144)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/04_TwoPointer/13144ListOfUniqueNumber.py)||
 |<center>좋다|[<center>링크](http://boj.kr/1253)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/04_TwoPointer/1253좋다.py)||
 |<center>고냥이|[<center>링크](http://boj.kr/16472)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/04_TwoPointer/16472고냥이.py)||
@@ -84,7 +84,7 @@
 |<center>DFS와 BFS|[<center>링크](http://boj.kr/1260)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1260DFS와BFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1260DFS와BFS.py)||
 |<center>단지번호붙이기|[<center>링크](http://boj.kr/2667)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2667단지번호붙이기DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2667단지번호붙이기BFS.py)||
 |<center>물통|[<center>링크](http://boj.kr/2251)||[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2251물통BFS.py)||
-|<center>연구소|[<center>링크](http://boj.kr/14502)||[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/14502연구소_심화문제.py)|<center>:star: DFS와 BFS둘다 사용하는 심화문제|
+|<center>연구소|[<center>링크](http://boj.kr/14502)||[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/14502연구소_심화문제.py)|<center>:star: DFS와 BFS둘다<br>사용하는 심화문제|
 |<center>**연습문제**|||
 |<center>유기농 배추|[<center>링크](http://boj.kr/1012)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1012유기농배추DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1012유기농배추BFS.py)||
 |<center>연결 요소의 개수|[<center>링크](http://boj.kr/11724)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11724연결요소의개수DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11724연결요소의개수BFS.py)||
@@ -129,7 +129,7 @@
 |<center>Strahler 순서|<center>[링크](https://www.acmicpc.net/problem/9470)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/9470Strahler순서.py)||
 |<center>영우는 사기꾼?|<center>[링크](https://velog.io/@ansrjsdn/BOJ14676-영우는-사기꾼-Python)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/14676영우는사기꾼.py)||
 |<center>게임 개발|<center>[링크](http://boj.kr/1516)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/1516게임개빌.py)||
-|<center>작업|<center>[링크](http://boj.kr/2056)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2056작업.py)|<center>위상정렬과 dp 연습문제 풀이 - 시간 누적 합에 대한 알고리즘 기본 예시:star:|
+|<center>작업|<center>[링크](http://boj.kr/2056)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2056작업.py)|<center>:star:위상정렬과 dp 연습문제<br>시간 누적 합에 대한 알고리즘 기본 예시|
 |<center>장난감조립|<center>[링크](http://boj.kr/2637)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/07_TopologicalSort/2637장난감조립.py)||
 
 <br><br>
@@ -140,7 +140,7 @@
 |<center>문제 이름|<center>문제 링크|<center>풀이|<center>메모|
 |---|---|---|---|
 |<center>최소비용 구하기|<center>[링크](http://boj.kr/1916)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1916최소비용구하기.py)|<center>기본예제|
-|<center>최단경로|<center>[링크](http://boj.kr/1753)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1753%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|<center>python에서 구현시에 heapq를 사용할때 우선순위를 고려할 요소를 맨 앞의 요소로 두는 것 주의하기(java는 pq정의시 comparator이용)|
+|<center>최단경로|<center>[링크](http://boj.kr/1753)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1753%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|<center>python에서 구현시에 heapq를 사용할때<br>우선순위를 고려할 요소를 맨 앞의 요소로<br>두는 것 주의하기(java는 pq정의시 comparator이용)|
 |<center>알고스팟|<center>[링크](http://boj.kr/1261)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1261%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9FDijkstra.py)|<center>BFS로 구현하는 방법 [링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1261%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9FBFS.py)|
 |<center>파티|<center>[링크](http://boj.kr/1238)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1238파티.py)|<center>최단거리를 여러번 구해야하는 경우|
 |<center>특정한 최단경로|<center>[링크](http://boj.kr/1504)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/08_ShortestPath/1504특정한최단경로.py)|<center>최단거리를 여러번 구해야하는 경우|
