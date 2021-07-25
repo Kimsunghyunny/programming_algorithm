@@ -8,6 +8,7 @@
 5. [Tree(트리)](#5-tree---트리)
 6. [TopologicalSort(위상정렬)](#6-topologicalsort---위상정렬)
 7. [ShortestPath(최단거리)](#7-shortestpath---최단거리)
+7. [DynamicProgramming(동적프로그래밍)](#8-dynamicprogramming---동적프로그래밍)
 <br><br>
 
 # <b> 파트 별 문제 풀이 </b>
@@ -148,6 +149,40 @@
 
 
 <br><br>
+
+## 8 DynamicProgramming - 동적프로그래밍
+<br>
+
+|문제 이름|문제 링크|답안 코드 링크|메모|
+|---|---|---|---|
+|1, 2, 3 더하기|[링크](http://boj.kr/9095)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/9095_123더하기.py)||
+|2×n 타일링|[링크](http://boj.kr/11726)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/11726_2xn타일링.py)||
+|계단 오르기|[링크](http://boj.kr/2579)|[링크]||
+|오르막 수|[링크](http://boj.kr/11057)|[링크]||
+||[링크](boj.kr/)|[링크]()||
+|**연습 문제**||||
+|피보나치 함수|[링크](http://boj.kr/1003)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/1003피보나치함수.py)||
+|피보나치 수 5|[링크](http://boj.kr/10870)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/10870피보나치수5.py)||
+|1, 2, 3 더하기 3|[링크](http://boj.kr/15988)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/15988_123더하기3.py)||
+|1, 2, 3 더하기 6|[링크](http://boj.kr/15991)|[링크]|문제 이해가안감|
+|카드 구매하기|[링크](http://boj.kr/11052)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/11052카드구매하기.py)|위의 쉬운문제와 다르게 응용 점화식 구하는 기초문제|
+|암호코드|[링크](http://boj.kr/2011)|[링크]||
+|RGB거리|[링크](http://boj.kr/1149)|[링크]||
+|포도주 시식|[링크](http://boj.kr/2156)|[링크]||
+|이친수|[링크](http://boj.kr/2193)|[링크]||
+|스티커|[링크](http://boj.kr/9465)|[링크]||
+|동물원|[링크](http://boj.kr/1309)|[링크]||
+|줄어들지 않아|[링크](http://boj.kr/2688)|[링크]||
+|계단 수|[링크](http://boj.kr/1562)|[링크]||
+|내려가기|[링크](http://boj.kr/2096)|[링크]||
+|1학년|[링크](http://boj.kr/5557)|[링크]||
+|기타리스트|[링크](http://boj.kr/1495)|[링크]||
+|1, 2, 3 더하기|[링크](http://boj.kr/9095)|[링크]||
+|1, 2, 3 더하기 5|[링크](http://boj.kr/15990)|[링크]||
+
+
+<br><br>
+
 # <b>알고리즘 시간복잡도 고려해서 푸는 방법</b>
 
 보통 1초라는 것은 100,000,000개(1억개, 0이 8개)의 연산을 할 수 있는 시간이라고 생각하면 된다.
