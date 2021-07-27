@@ -157,8 +157,8 @@
 |---|---|---|---|
 |1, 2, 3 더하기|[링크](http://boj.kr/9095)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/9095_123더하기.py)||
 |2×n 타일링|[링크](http://boj.kr/11726)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/11726_2xn타일링.py)||
-|계단 오르기|[링크](http://boj.kr/2579)|[링크]||
-|오르막 수|[링크](http://boj.kr/11057)|[링크]||
+|계단 오르기|[링크](http://boj.kr/2579)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/2579계단오르기.py)|처음 가짜문제정의가 틀렸을 시1|
+|오르막 수|[링크](http://boj.kr/11057)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/11057오르막수.py)|처음 가짜문제정의가 틀렸을 시2|
 ||[링크](boj.kr/)|[링크]()||
 |**연습 문제**||||
 |피보나치 함수|[링크](http://boj.kr/1003)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/1003피보나치함수.py)||
