@@ -170,7 +170,7 @@
 |RGB거리|[링크](http://boj.kr/1149)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/1149RGB거리.py)||
 |포도주 시식|[링크](http://boj.kr/2156)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/2156포도주시식.py)|초기값 고려해서 dp 등에 대해 배열 크기 선언해야함(IndexError고려)|
 |이친수|[링크](http://boj.kr/2193)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/2193이친수.py)|초기값 고려해서 dp 등에 대해 배열 크기 선언해야함(IndexError고려)|
-|스티커|[링크](http://boj.kr/9465)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/9465스티커.py)||
+|스티커|[링크](http://boj.kr/9465)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/9465스티커.py)|초기값 선언시 가장 작은 경우를 고려해서 조건을 반드시 붙여줘야함|
 |동물원|[링크](http://boj.kr/1309)|[링크]||
 |줄어들지 않아|[링크](http://boj.kr/2688)|[링크]||
 |계단 수|[링크](http://boj.kr/1562)|[링크]||
