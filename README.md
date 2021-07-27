@@ -166,11 +166,11 @@
 |1, 2, 3 더하기 3|[링크](http://boj.kr/15988)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/15988_123더하기3.py)||
 |1, 2, 3 더하기 6|[링크](http://boj.kr/15991)|[링크]|문제 이해가안감|
 |카드 구매하기|[링크](http://boj.kr/11052)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/11052카드구매하기.py)|위의 쉬운문제와 다르게 응용 점화식 구하는 기초문제|
-|암호코드|[링크](http://boj.kr/2011)|[링크]||
-|RGB거리|[링크](http://boj.kr/1149)|[링크]||
-|포도주 시식|[링크](http://boj.kr/2156)|[링크]||
-|이친수|[링크](http://boj.kr/2193)|[링크]||
-|스티커|[링크](http://boj.kr/9465)|[링크]||
+|암호코드|[링크](http://boj.kr/2011)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/2011암호코드.py)||
+|RGB거리|[링크](http://boj.kr/1149)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/1149RGB거리.py)||
+|포도주 시식|[링크](http://boj.kr/2156)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/2156포도주시식.py)|초기값 고려해서 dp 등에 대해 배열 크기 선언해야함(IndexError고려)|
+|이친수|[링크](http://boj.kr/2193)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/2193이친수.py)|초기값 고려해서 dp 등에 대해 배열 크기 선언해야함(IndexError고려)|
+|스티커|[링크](http://boj.kr/9465)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/09_DP/9465스티커.py)||
 |동물원|[링크](http://boj.kr/1309)|[링크]||
 |줄어들지 않아|[링크](http://boj.kr/2688)|[링크]||
 |계단 수|[링크](http://boj.kr/1562)|[링크]||
