@@ -18,10 +18,10 @@
 
 |<center>문제 이름|문제 링크|풀이|메모|
 |-------|-------|-------|-------|
-|<center>N과 M (3)|[<center>링크](http://boj.kr/15651)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/15651N과M3.py)||
-|<center>N과 M (1)|[<center>링크](http://boj.kr/15649)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/15649N과M1.py)||
-|<center>N과 M (4)|[<center>링크](http://boj.kr/15652)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/15652N과M4.py)||
-|<center>N과 M (2)|[<center>링크](http://boj.kr/15650)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/15650N과M2.py)||
+|<center>N과 M (3)|[링크](http://boj.kr/15651)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/15651N과M3.py)||
+|<center>N과 M (1)|[링크](http://boj.kr/15649)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/15649N과M1.py)||
+|<center>N과 M (4)|[링크](http://boj.kr/15652)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/15652N과M4.py)||
+|<center>N과 M (2)|[링크](http://boj.kr/15650)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/15650N과M2.py)||
 |<center>연산자 끼워넣기|[<center>링크](http://boj.kr/14888)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/14888연산자끼워넣기.py)||
 |<center>N-Queen|[<center>링크](http://boj.kr/9663)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/01_Bruteforce/9663N_Queen.py)||
 |<center>**연습문제**|
@@ -80,20 +80,20 @@
 ## 4. GraphSearch - 그래프탐색
 <br>
 
-|<center>문제 이름|<center>문제 링크|<center>DFS풀이|<center>BFS풀이|<center>메모|
+|<center>문제 이름|문제 링크|<center>DFS풀이|<center>BFS풀이|<center>메모|
 |---|---|---|---|---|
-|<center>DFS와 BFS|[<center>링크](http://boj.kr/1260)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1260DFS와BFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1260DFS와BFS.py)||
-|<center>단지번호붙이기|[<center>링크](http://boj.kr/2667)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2667단지번호붙이기DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2667단지번호붙이기BFS.py)||
-|<center>물통|[<center>링크](http://boj.kr/2251)||[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2251물통BFS.py)||
-|<center>연구소|[<center>링크](http://boj.kr/14502)||[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/14502연구소_심화문제.py)|<center>:star: DFS와 BFS둘다<br>사용하는 심화문제|
+|<center>DFS와 BFS|[링크](http://boj.kr/1260)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1260DFS와BFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1260DFS와BFS.py)||
+|<center>단지번호붙이기|[링크](http://boj.kr/2667)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2667단지번호붙이기DFS.py)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2667단지번호붙이기BFS.py)||
+|<center>물통|[링크](http://boj.kr/2251)||[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2251물통BFS.py)||
+|<center>연구소|[링크](http://boj.kr/14502)||[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/14502연구소_심화문제.py)|<center>:star: DFS와 BFS둘다<br>사용하는 심화문제|
 |<center>**연습문제**|||
-|<center>유기농 배추|[<center>링크](http://boj.kr/1012)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1012유기농배추DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1012유기농배추BFS.py)||
-|<center>연결 요소의 개수|[<center>링크](http://boj.kr/11724)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11724연결요소의개수DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11724연결요소의개수BFS.py)||
-|<center>섬의 개수|[<center>링크](http://boj.kr/4963)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/4963섬의개수DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/4963섬의개수BFS.py)||
-|<center>양|[<center>링크](http://boj.kr/3184)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/3184양DFS.py)|||
-|<center>바이러스|[<center>링크](http://boj.kr/2606)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2606바이러스DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2606바이러스BFS.py)||
-|<center>경로 찾기|[<center>링크](http://boj.kr/11403)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11403경로DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11403경로BFS.py)||
-|<center>트리의 부모 찾기|[<center>링크](http://boj.kr/11725)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11725트리부모찾기DFS.py)|[<center>링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11725트리부모찾기BFS.py)||
+|<center>유기농 배추|[링크](http://boj.kr/1012)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1012유기농배추DFS.py)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/1012유기농배추BFS.py)||
+|<center>연결 요소의 개수|[링크](http://boj.kr/11724)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11724연결요소의개수DFS.py)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11724연결요소의개수BFS.py)||
+|<center>섬의 개수|[링크](http://boj.kr/4963)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/4963섬의개수DFS.py)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/4963섬의개수BFS.py)||
+|<center>양|[링크](http://boj.kr/3184)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/3184양DFS.py)|||
+|<center>바이러스|[링크](http://boj.kr/2606)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2606바이러스DFS.py)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/2606바이러스BFS.py)||
+|<center>경로 찾기|[링크](http://boj.kr/11403)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11403경로DFS.py)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11403경로BFS.py)||
+|<center>트리의 부모 찾기|[링크](http://boj.kr/11725)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11725트리부모찾기DFS.py)|[링크](https://github.com/Kimsunghyunny/programming_algorithm/blob/master/baekjoon/05_GraphSearching/11725트리부모찾기BFS.py)||
 
 <br><br>
 
